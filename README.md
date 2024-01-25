@@ -1,1 +1,4 @@
 # pointclass
+sadam 
+ali
+dogar
